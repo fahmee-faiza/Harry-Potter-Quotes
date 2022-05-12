@@ -37,10 +37,6 @@ var quotes = [
 	source: "-Sirius Black, Harry Potter and the Goblet of Fire"
 	},
 	{
-	quote: "The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before.",
-	source: "-Albert Einstein"
-	},
-	{
 	quote: "Never trust anything that can think for itself if you can’t see where it keeps its brain.",
 	source: "-Arthur Weasley", 
 	citation: "Harry Potter and the Chamber of Secrets"
